@@ -1,0 +1,55 @@
+
+/*.Twitter-logo {
+	width: 42.57px;
+	height: 34.6px;
+}*/
+
+.nav-link {
+	text-align: right;
+	justify-content: right;
+}
+
+#About{
+	
+}
+
+/*.card{
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 80px; 
+}*/
+
+.my-pic{
+	width: 100%;
+	height: 200px;
+	border-radius: 50%;
+}
+.company{
+	width: 100%;
+}
+.TW-company{
+	justify-content: center;
+	text-align: center;
+}
+#apr{
+	margin-left: 20%;
+}
+.list-work {
+	margin-left: 20%;
+}
+.Contect{
+	margin-top: 100px;
+	margin-left: 150px;
+}
+.last{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	margin-top: 20px;
+}
+
+.card-3pic{
+     width: 100%;
+}
+
+
